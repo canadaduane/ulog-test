@@ -1,6 +1,6 @@
 # showcase ulog not working with rollup
 
-This is a repro of a bug when using ulog/anylogger in conjunction with rollup js.
+This is a repro of a bug (or misunderstanding) when using ulog/anylogger in conjunction with rollup js.
 
 ## Start
 
